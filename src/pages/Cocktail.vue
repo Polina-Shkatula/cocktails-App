@@ -6,7 +6,6 @@ import { useRoute } from "vue-router";
 import { COCKTAIL_BY_ID } from "@/constants/api";
 
 const route = useRoute();
-
 const cocktail = ref(null);
 const cocktailId = computed(() => route.path.split("/").pop());
 
