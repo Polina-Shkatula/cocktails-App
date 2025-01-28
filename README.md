@@ -1,6 +1,32 @@
 # cocktails-project
 
-This template should help get you started developing with Vue 3 in Vite.
+Creation of an interactive application for searching and displaying cocktail recipes
+
+## Technologies Used
+
+Vite, JavaScript, Vue3, pinia, vue-router, axios, SASS
+
+## Screenshots
+
+#### Start Page
+
+![Startpage](/src/assets/screenshots/screenshot1.png 'Start Page')
+
+#### Choose ingredients for the cocktails
+
+![Ingredients](/src/assets/screenshots/screenshot2.png 'ingredients')
+
+#### Choose a cocktail with this ingredient
+
+![Cocktail](/src/assets/screenshots/screenshot3.png 'cocktail')
+
+#### Cocktail recipe
+
+![CocktailRecipe](/src/assets/screenshots/screenshot4.png 'cocktail recipe')
+
+#### Random cocktail
+
+![RandomCocktail](/src/assets/screenshots/screenshot5.png 'random cocktail')
 
 ## Recommended IDE Setup
 
